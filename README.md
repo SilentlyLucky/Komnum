@@ -1,3 +1,4 @@
+```
 # -*- coding: utf-8 -*-
 """Fixed_Point_Iteration.ipynb
 
@@ -130,3 +131,4 @@ ax[1].legend()
 
 plt.tight_layout()
 plt.show()
+```
