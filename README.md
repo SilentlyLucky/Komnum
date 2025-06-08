@@ -6,4 +6,4 @@
 - **Melvan Hapianan A.P.** — `5025241124`  
 - **Steven Alvin Christian** — `5025241116`
 
-Source Code + Penjelasan: `https://colab.research.google.com/drive/1Do2rFlaaZRUZcrka0vmolN5An095R0I5?usp=sharing`
+Source Code + Penjelasan: https://colab.research.google.com/drive/1Do2rFlaaZRUZcrka0vmolN5An095R0I5?usp=sharing
